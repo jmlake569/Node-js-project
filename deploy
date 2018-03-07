@@ -1,5 +1,5 @@
 -#!/bin/sh     
-ssh jmlake@159.65.235.210<<EOF       
+ssh jmlake@159.65.227.147<<EOF       
  cd /node-js-project 
  git pull      
  npm install --production      
